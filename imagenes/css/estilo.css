@@ -1,0 +1,13 @@
+body{
+    background-color:#AA3939;
+}
+h1{
+       font-family: arial;
+       font-size: 45px;
+}
+#pepe{
+     width: 350px;
+     height: 350px;
+     border-radius: 30%;
+     border: 2px solid #000000;
+}
